@@ -1,6 +1,6 @@
-# Projet-QAM-et-Netspot
+# Projet-QAM
 Ce projet a pour objectif la conception et l’implémentation en Python d’un modem QAM (Quadrature Amplitude Modulation) complet, capable de transmettre des données numériques (y compris des images) de manière efficace en milieu bruité.
-# Projet_QAM
+
 
 ## 📋 Cahier des charges
 
@@ -19,7 +19,6 @@ Ce projet a pour objectif la conception et l’implémentation en Python d’un 
 - Python 3.x
 - NumPy
 - Matplotlib
-- Pillow
 - Random, math
 
 ## 📊 Résultats attendus
